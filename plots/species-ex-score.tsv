@@ -1,0 +1,7 @@
+Tool	Rank	Precision	Sensitivity	F1
+Kraken2	Family	0.724	0.390	0.507
+Centrifuger	Family	0.603	0.371	0.459
+Kaiju	Family	0.755	0.528	0.621
+Kraken2X	Family	0.723	0.501	0.592
+Metabuli	Family	0.733	0.595	0.657
+Metabuli*	Family	0.752	0.633	0.688
