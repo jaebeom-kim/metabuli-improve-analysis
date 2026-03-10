@@ -7,10 +7,10 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/subsp-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        subsp-ex+P \
+        subsp-ex+0.15 \
         --threads 64 \
         --min-cons-cnt 2 \
-        --min-score 0.2 \
+        --min-score 0.15 \
         --max-shift 8 > /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6/subsp-ex.log
 
 # Species exclusion test
@@ -19,10 +19,10 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/sp-ex-100_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        sp-ex+P \
+        sp-ex+0.15 \
         --threads 64 \
         --min-cons-cnt 2 \
-        --min-score 0.2 \
+        --min-score 0.15 \
         --max-shift 8 > /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6/sp-ex.log
 
 
@@ -32,10 +32,10 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/genus-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        genus-ex+P \
+        genus-ex+0.15 \
         --threads 64 \
         --min-cons-cnt 2 \
-        --min-score 0.2 \
+        --min-score 0.15 \
         --max-shift 8 > /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6/genus-ex.log
 
 # Family exclusion test
@@ -44,8 +44,8 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/family-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        family-ex+P \
+        family-ex+0.15 \
         --threads 64 \
         --min-cons-cnt 2 \
-        --min-score 0.2 \
+        --min-score 0.15 \
         --max-shift 8 > /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6/family-ex.log
