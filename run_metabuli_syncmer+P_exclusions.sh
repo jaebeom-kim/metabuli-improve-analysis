@@ -7,7 +7,7 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/subsp-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        subsp-ex \
+        subsp-ex+P \
         --threads 64 \
         --min-cons-cnt 2 \
         --min-score 0.2 \
@@ -19,7 +19,7 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/sp-ex-100_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        sp-ex \
+        sp-ex+P \
         --threads 64 \
         --min-cons-cnt 2 \
         --min-score 0.2 \
@@ -32,7 +32,7 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/genus-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        genus-ex \
+        genus-ex+P \
         --threads 64 \
         --min-cons-cnt 2 \
         --min-score 0.2 \
@@ -44,7 +44,7 @@
         /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/family-ex-small_2.fna \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
         /fast/jaebeom/benchmark/gtdb-genomes/metabuli-db-11101110111-s6 \
-        family-ex \
+        family-ex+P \
         --threads 64 \
         --min-cons-cnt 2 \
         --min-score 0.2 \
