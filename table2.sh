@@ -99,3 +99,11 @@
         sp-ex-0405 \
         --threads 64
 
+~/dev/Metabuli/release/src/metabuli classify  -e 0 \
+        /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/sp-ex-100_1.fna \
+        /fast/jaebeom/benchmark/gtdb-genomes/simulated_reads/sp-ex-100_2.fna \
+        /fast/jaebeom/benchmark/gtdb-genomes/11101110111 \
+        /fast/jaebeom/benchmark/gtdb-genomes/11101110111 \
+        sp-ex-0405 \
+        --threads 64
+
